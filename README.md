@@ -70,7 +70,7 @@ Personal reflections on my learning journey, challenges faced, and how I overcam
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/machine-learning-journey.git
+   git clone https://github.com/ShishirRmc/machine-learning-journey.git
    ```
 2. Navigate to the desired section for learning or reference.
 3. Use the Jupyter notebooks or Python scripts for hands-on practice.
