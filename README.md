@@ -19,7 +19,7 @@ This repository contains:
 1. [Roadmap](#roadmap)
 2. [Course Notes](#course-notes)
 3. [Code Implementations](#code-implementations)
-4. [Projects](#projects)
+4. [Projects](Projects)
 5. [Resources](#resources)
 6. [Reflections](#reflections)
 
