@@ -19,7 +19,7 @@ This repository contains:
 1. [Roadmap](#roadmap)
 2. [Course Notes](#course-notes)
 3. [Code Implementations](#code-implementations)
-4. [Projects](Projects)
+4. [Projects](#Projects)
 5. [Resources](#resources)
 6. [Reflections](#reflections)
 
@@ -45,7 +45,7 @@ This section includes code examples and Jupyter notebooks for:
 - Visualization Tools
 - Custom Implementations
 
-### Projects
+### [Projects] (Projects)
 Detailed explanations and code for my machine learning projects, including:
 
 - Predictive Modeling
