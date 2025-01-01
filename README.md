@@ -45,7 +45,7 @@ This section includes code examples and Jupyter notebooks for:
 - Visualization Tools
 - Custom Implementations
 
-### [Projects] (Projects)
+### Projects
 Detailed explanations and code for my machine learning projects, including:
 
 - Predictive Modeling
