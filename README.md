@@ -24,7 +24,7 @@ This repository contains:
 6. [Reflections](#reflections)
 
 ### Roadmap
-This section outlines a structured approach to mastering machine learning, including foundational concepts, essential programming skills, and advanced topics like deep learning and reinforcement learning.
+This section outlines a structured approach to mastering machine learning, including foundational concepts, essential programming skills, and advanced topics like deep learning, AI and data science.
 
 ### Course Notes
 Here, you will find notes from the machine learning course I completed, along with additional insights from other resources. Topics include:
@@ -35,7 +35,7 @@ Here, you will find notes from the machine learning course I completed, along wi
 - Clustering Methods
 - Dimensionality Reduction
 - Model Evaluation and Improvement
-- Deep Learning Basics
+- Deep Learning
 
 ### Code Implementations
 This section includes code examples and Jupyter notebooks for:
